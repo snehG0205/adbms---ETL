@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<student>
+		<SAP_ID>60003168001</SAP_ID>
+		<Name>Vinit Dabake</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-01-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168002</SAP_ID>
+		<Name>Sneh Gajiwala</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-02-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168003</SAP_ID>
+		<Name>Krisha Makwana</Name>
+		<Gender>0</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-03-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168004</SAP_ID>
+		<Name>Mandar Mhapsekar</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-04-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168005</SAP_ID>
+		<Name>Prathmesh Mhapsekar</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-05-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168006</SAP_ID>
+		<Name>Aniket Mhatre</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-06-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168007</SAP_ID>
+		<Name>Shweta Pandit</Name>
+		<Gender>0</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-07-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168008</SAP_ID>
+		<Name>Sanjana Patel</Name>
+		<Gender>0</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-08-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168009</SAP_ID>
+		<Name>Saurav Senghani</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-09-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168010</SAP_ID>
+		<Name>Hem Sevak</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-10-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168011</SAP_ID>
+		<Name>Bhavya Shah</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-11-1997</DateOfBirth>
+	</student>
+	<student>
+		<SAP_ID>60003168012</SAP_ID>
+		<Name>Dharam Sherathia</Name>
+		<Gender>1</Gender>
+		<Phone>9123456780</Phone>
+		<Email>first.last@gmail.com</Email>
+		<DateOfBirth>01-12-1997</DateOfBirth>
+	</student>
+</root>
